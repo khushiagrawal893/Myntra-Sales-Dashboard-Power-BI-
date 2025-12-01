@@ -27,7 +27,7 @@ The dashboard provides insights into revenue trends, orders, customer behavior, 
 
 ## 📂 Data Source
 - The dataset includes **sales, orders, product categories, and customer details**.  
-- Provided as **Excel files**.
+- Provided as **Excel file**.
 
 ---
 
@@ -52,4 +52,5 @@ The dashboard provides insights into revenue trends, orders, customer behavior, 
 
 ## 📸 Screenshots / Demo
 Product Overview: ![Dashboard](https://github.com/khushiagrawal893/Myntra-Sales-Dashboard-Power-BI-/blob/Images/Product%20Overview.png)
-Customer Insight: ![Dashboard]
+Customer Insight: ![Dashboard](https://github.com/khushiagrawal893/Myntra-Sales-Dashboard-Power-BI-/blob/Images/Customer%20Insight.png)
+Sales Performance: ![Dashboard]

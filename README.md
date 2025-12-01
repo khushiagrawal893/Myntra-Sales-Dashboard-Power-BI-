@@ -18,7 +18,7 @@ The dashboard provides insights into revenue trends, orders, customer behavior, 
 | Tool / Technology | Purpose |
 |------------------|----------|
 | **Power BI** | Data cleaning, modelling, dashboard development |
-| **CSV** | Raw dataset storage |
+| **Excel** | Raw dataset storage |
 | **Power Query** | Data transformation |
 | **DAX** | Calculations, measures, KPIs |
 | **Data Modelling** | Relationship building |
@@ -27,7 +27,7 @@ The dashboard provides insights into revenue trends, orders, customer behavior, 
 
 ## 📂 Data Source
 - The dataset includes **sales, orders, product categories, and customer details**.  
-- Provided as **CSV files**.
+- Provided as **Excel files**.
 
 ---
 

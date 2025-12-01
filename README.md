@@ -51,5 +51,5 @@ The dashboard provides insights into revenue trends, orders, customer behavior, 
 ---
 
 ## 📸 Screenshots / Demo
-
-
+Product Overview: ![Dashboard](https://github.com/khushiagrawal893/Myntra-Sales-Dashboard-Power-BI-/blob/Images/Product%20Overview.png)
+Customer Insight: ![Dashboard]
